@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
+- degree: Bachelor of Engineering, Computer Science
+  uni: Nanyang Technological University
+  year: 2023 &mdash; present
   summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
+- degree: Diploma In Engineering With Business
+  uni: Singapore Polytechnic
+  year: 2021
+  awards:
+    - award: Director's Honour Roll
   summary: You can choose to have either a single or multiple awards
